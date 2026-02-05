@@ -20,16 +20,18 @@ Contains demographic, task, and questionnaire data for study conducted within th
 
 ### analyses/ directory
 
-*utilities.R* defines variables and functions to be shared across scripts.
+*utilities.R* defines variables to be shared across scripts.
 
 *demographics.R* takes demographic data inputs from data/ and writes outputs to results/demographics/.
 
-*analyses.R* takes task and questionnaire data inputs from data/ and writes outputs (from linear mixed-effects models, regression models, and directed acyclic graphs) to results/analyses/.
+*pre_analyses.R* takes demographic and questionnaire data inputs from data/ and writes outputs (from linear mixed-effects models and regression models) to results/pre_analyses/.
+
+*analyses.R* takes demographic, task, and questionnaire data inputs from data/ and writes outputs (from linear mixed-effects models, regression models, and directed acyclic graphs) to results/analyses/.
 
 ### results/ directory
 
 Contains text and png file outputs from scripts in analyses/, sorted by analysis type.
 
-### annotated_figs/ directory
+### figures/ directory
 
 Contains annotated_figs.pptx, which annotates several figures beyond the limits of R.
