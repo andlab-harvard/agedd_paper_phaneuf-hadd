@@ -1,0 +1,162 @@
+Gender,DoB,TaskDate,Race,Ethnicity,ExactAge,FlooredAge,AgeGroup,StudyID
+Feminine,2005-01-13,2025-02-02,White,Not Hispanic,20.054794520547944,20,Adults,1
+Feminine,2005-12-26,2025-02-03,White,Not Hispanic,19.106849315068494,19,Adults,2
+Feminine,2005-01-07,2025-01-31,Black or African American,Not Hispanic,20.065753424657533,20,Adults,3
+Masculine,2006-05-11,2025-02-17,White,Not Hispanic,18.77260273972603,18,Adults,4
+Masculine,2006-01-08,2025-02-26,Asian,Not Hispanic,19.134246575342463,19,Adults,5
+Masculine,2004-08-09,2025-02-24,White,Not Hispanic,20.54685230930459,20,Adults,6
+Feminine,2004-09-29,2025-02-20,Asian,Not Hispanic,20.39654914289992,20,Adults,7
+Feminine,2004-07-11,2025-02-09,Mixed Race,Not Hispanic,20.584991391571226,20,Adults,8
+Feminine,2013-06-27,2025-02-08,White,Hispanic,11.61917808219178,11,Children,9
+Masculine,2014-03-14,2025-03-04,White,Hispanic,10.972602739726028,10,Children,10
+Feminine,2013-04-19,2025-02-08,Mixed Race,Not Hispanic,11.808219178082192,11,Children,11
+Feminine,2013-04-19,2025-02-08,Mixed Race,Not Hispanic,11.808219178082192,11,Children,12
+Feminine,2013-06-20,2025-02-13,Not Captured by Options,Hispanic,11.652054794520549,11,Children,13
+Masculine,2008-07-09,2025-03-10,White,Not Hispanic,16.669907927240065,16,Adolescents,14
+Masculine,2007-01-29,2025-03-09,Mixed Race,Not Reported,18.106849315068494,18,Adults,15
+Feminine,2007-10-01,2025-03-01,White,Not Hispanic,17.413698630136988,17,Adolescents,16
+Feminine,2008-05-14,2025-02-16,White,Not Hispanic,16.762639419118198,16,Adolescents,17
+Feminine,2008-01-07,2025-02-18,White,Not Hispanic,17.115068493150684,17,Adolescents,18
+Masculine,2008-03-27,2025-02-18,Not Reported,Hispanic,16.8992664121566,16,Adolescents,19
+Masculine,2007-06-28,2025-02-18,White,Not Hispanic,17.643835616438356,17,Adolescents,20
+Masculine,2007-02-22,2025-03-26,White,Not Hispanic,18.087671232876712,18,Adults,21
+Masculine,2008-06-17,2025-02-16,Not Captured by Options,Not Hispanic,16.66974324425481,16,Adolescents,22
+Feminine,2008-08-27,2025-02-18,White,Not Hispanic,16.481233625271354,16,Adolescents,23
+Masculine,2007-11-27,2025-02-17,Black or African American,Not Hispanic,17.224657534246575,17,Adolescents,24
+Feminine,2012-02-14,2025-02-25,White,Not Hispanic,13.03013698630137,13,Adolescents,25
+Feminine,2008-04-21,2025-02-21,White,Not Reported,16.83917957930983,16,Adolescents,26
+Feminine,2007-11-29,2025-02-20,White,Not Hispanic,17.22739726027397,17,Adolescents,27
+Feminine,2007-01-04,2025-02-23,Not Captured by Options,Not Hispanic,18.136986301369863,18,Adults,28
+Masculine,2010-07-16,2025-02-24,White,Not Hispanic,14.610958904109587,14,Adolescents,29
+Masculine,2004-12-07,2025-02-21,Not Reported,Hispanic,20.21076427876338,20,Adults,30
+Feminine,2009-04-06,2025-03-02,White,Not Hispanic,15.904109589041097,15,Adolescents,31
+Feminine,2007-08-21,2025-03-20,Mixed Race,Not Hispanic,17.578082191780823,17,Adolescents,32
+Feminine,2008-03-17,2025-02-28,White,Not Hispanic,16.953986076802156,16,Adolescents,33
+Feminine,2008-02-18,2025-03-01,White,Not Hispanic,17.03013698630137,17,Adolescents,34
+Feminine,2007-04-28,2025-02-27,White,Not Hispanic,17.835616438356166,17,Adolescents,35
+Masculine,2004-10-07,2025-03-09,Black or African American,Not Hispanic,20.421266561868403,20,Adults,36
+Feminine,2007-09-18,2025-03-11,White,Not Hispanic,17.476712328767125,17,Adolescents,37
+Feminine,2007-08-20,2025-02-25,White,Not Hispanic,17.517808219178082,17,Adolescents,38
+Feminine,2008-03-09,2025-03-01,White,Not Hispanic,16.97858372632682,16,Adolescents,39
+Feminine,2008-12-22,2025-02-26,White,Not Hispanic,16.183479302342988,16,Adolescents,40
+Masculine,2004-05-26,2025-03-04,Asian,Not Hispanic,20.77368815031065,20,Adults,41
+Feminine,2009-10-19,2025-02-27,White,Not Hispanic,15.35890410958904,15,Adolescents,42
+Masculine,2012-11-07,2025-03-03,White,Not Hispanic,12.320128752152108,12,Children,43
+Feminine,2008-03-27,2025-03-09,White,Not Hispanic,16.951321206677147,16,Adolescents,44
+Feminine,2007-01-12,2025-03-04,Asian,Not Hispanic,18.13972602739726,18,Adults,45
+Feminine,2005-05-28,2025-03-05,White,Hispanic,19.76986301369863,19,Adults,46
+Feminine,2006-10-22,2025-03-07,White,Hispanic,18.372602739726027,18,Adults,47
+Masculine,2011-03-12,2025-03-04,Black or African American,Not Hispanic,13.97808219178082,13,Adolescents,48
+Masculine,2011-06-07,2025-03-09,White,Not Hispanic,13.753424657534246,13,Adolescents,49
+Masculine,2012-05-01,2025-03-07,Mixed Race,Not Hispanic,12.850213339321805,12,Children,50
+Masculine,2011-02-21,2025-03-07,Mixed Race,Not Hispanic,14.03835616438356,14,Adolescents,51
+Feminine,2004-08-04,2025-03-10,White,Hispanic,20.598869675873942,20,Adults,52
+Feminine,2004-07-31,2025-03-04,White,Not Hispanic,20.593360281458192,20,Adults,53
+Masculine,2012-01-18,2025-03-11,White,Not Hispanic,13.142465753424656,13,Adolescents,54
+Masculine,2012-08-28,2025-03-08,Asian,Not Hispanic,12.527816453327343,12,Children,55
+Feminine,2005-01-23,2025-03-05,Asian,Not Hispanic,20.112328767123287,20,Adults,56
+Feminine,2004-07-08,2025-03-11,Asian,Not Hispanic,20.67537989370462,20,Adults,57
+Feminine,2005-02-02,2025-03-08,Not Reported,Not Reported,20.09315068493151,20,Adults,58
+Masculine,2010-02-26,2025-03-06,White,Not Hispanic,15.02191780821918,15,Adolescents,59
+Masculine,2013-08-05,2025-03-15,White,Not Hispanic,11.60821917808219,11,Children,60
+Masculine,2013-08-05,2025-03-11,White,Not Hispanic,11.597260273972603,11,Children,61
+Masculine,2013-07-17,2025-03-06,White,Not Hispanic,11.635616438356164,11,Children,62
+Masculine,2013-03-04,2025-03-15,Asian,Not Hispanic,12.03013698630137,12,Children,63
+Masculine,2013-07-17,2025-03-08,White,Not Hispanic,11.64109589041096,11,Children,64
+Masculine,2011-11-18,2025-03-16,White,Not Hispanic,13.323287671232876,13,Adolescents,65
+Masculine,2012-04-28,2025-03-10,White,Not Hispanic,12.866629238715472,12,Children,66
+Masculine,2012-05-25,2025-03-11,White,Not Hispanic,12.795598472939592,12,Children,67
+Feminine,2014-05-06,2025-04-27,White,Not Hispanic,10.975342465753425,10,Children,68
+Feminine,2010-04-19,2025-03-29,Not Captured by Options,Not Hispanic,14.942465753424658,14,Adolescents,69
+Feminine,2009-06-02,2025-03-31,Mixed Race,Hispanic,15.827397260273973,15,Adolescents,70
+Feminine,2012-04-10,2025-03-28,White,Not Hispanic,12.965124635077476,12,Children,71
+Feminine,2011-09-17,2025-03-31,White,Not Hispanic,13.534246575342465,13,Adolescents,72
+Feminine,2013-10-19,2025-03-29,White,Not Hispanic,11.441095890410958,11,Children,73
+Masculine,2013-02-12,2025-04-14,White,Not Hispanic,12.167123287671233,12,Children,74
+Masculine,2011-04-21,2025-03-29,White,Not Hispanic,13.936986301369863,13,Adolescents,75
+Feminine,2011-07-10,2025-03-28,Mixed Race,Not Hispanic,13.715068493150683,13,Adolescents,76
+Feminine,2011-11-02,2025-04-12,Mixed Race,Hispanic,13.441095890410958,13,Adolescents,77
+Feminine,2011-05-12,2025-03-31,White,Not Hispanic,13.884931506849314,13,Adolescents,78
+Feminine,2012-03-24,2025-03-31,Asian,Not Hispanic,13.01917808219178,13,Adolescents,79
+Feminine,2012-10-04,2025-04-22,Mixed Race,Not Hispanic,12.550011228385358,12,Children,80
+Feminine,2012-02-20,2025-04-03,Mixed Race,Not Hispanic,13.115068493150686,13,Adolescents,81
+Masculine,2009-12-18,2025-03-30,Asian,Not Hispanic,15.27945205479452,15,Adolescents,82
+Masculine,2009-10-01,2025-04-06,Mixed Race,Not Hispanic,15.512328767123288,15,Adolescents,83
+Masculine,2010-07-05,2025-04-01,White,Not Reported,14.73972602739726,14,Adolescents,84
+Masculine,2009-01-01,2025-04-02,White,Not Hispanic,16.24931506849315,16,Adolescents,85
+Masculine,2012-11-06,2025-03-27,Mixed Race,Not Hispanic,12.3886144172468,12,Children,86
+Masculine,2010-03-23,2025-04-12,White,Hispanic,15.054794520547944,15,Adolescents,87
+Masculine,2010-06-28,2025-04-02,Mixed Race,Hispanic,14.761643835616438,14,Adolescents,88
+Masculine,2009-05-05,2025-03-30,White,Hispanic,15.9013698630137,15,Adolescents,89
+Masculine,2011-02-20,2025-04-02,White,Not Hispanic,14.112328767123287,14,Adolescents,90
+Masculine,2009-05-07,2025-03-28,White,Hispanic,15.89041095890411,15,Adolescents,91
+Masculine,2010-08-23,2025-03-28,White,Not Hispanic,14.594520547945203,14,Adolescents,92
+Masculine,2010-09-05,2025-04-11,Black or African American,Not Hispanic,14.597260273972603,14,Adolescents,93
+Feminine,2012-02-02,2025-03-30,White,Not Hispanic,13.153424657534249,13,Adolescents,94
+Feminine,2011-09-21,2025-03-30,White,Hispanic,13.52054794520548,13,Adolescents,95
+Masculine,2010-09-19,2025-03-31,White,Not Hispanic,14.528767123287672,14,Adolescents,96
+Masculine,2014-12-15,2025-04-04,Asian,Not Hispanic,10.3013698630137,10,Children,97
+Masculine,2013-09-22,2025-04-12,White,Not Hispanic,11.553424657534247,11,Children,98
+Masculine,2014-01-17,2025-04-06,Asian,Not Hispanic,11.216438356164383,11,Children,99
+Masculine,2014-05-17,2025-04-17,White,Not Reported,10.917808219178085,10,Children,100
+Masculine,2014-05-09,2025-04-07,White,Not Hispanic,10.912328767123288,10,Children,101
+Masculine,2013-10-20,2025-04-09,White,Not Hispanic,11.468493150684932,11,Children,102
+Masculine,2014-07-13,2025-04-23,White,Hispanic,10.778082191780822,10,Children,103
+Masculine,2013-12-17,2025-04-04,White,Not Hispanic,11.295890410958904,11,Children,104
+Masculine,2013-10-05,2025-04-09,White,Not Hispanic,11.509589041095891,11,Children,105
+Masculine,2014-06-09,2025-04-10,White,Not Hispanic,10.835616438356164,10,Children,106
+Feminine,2015-03-03,2025-05-25,Asian,Not Hispanic,10.227397260273971,10,Children,107
+Feminine,2014-08-05,2025-04-06,White,Not Hispanic,10.668493150684933,10,Children,108
+Feminine,2010-05-30,2025-04-07,Not Captured by Options,Hispanic,14.854794520547944,14,Adolescents,109
+Feminine,2010-03-16,2025-04-07,White,Not Hispanic,15.06027397260274,15,Adolescents,110
+Feminine,2009-01-01,2025-04-11,Not Captured by Options,Hispanic,16.273972602739725,16,Adolescents,111
+Feminine,2008-09-17,2025-04-10,Not Captured by Options,Not Hispanic,16.563582603488285,16,Adolescents,112
+Masculine,2015-01-05,2025-04-16,Mixed Race,Not Hispanic,10.276712328767124,10,Children,113
+Masculine,2015-02-20,2025-04-12,White,Not Hispanic,10.13972602739726,10,Children,114
+Masculine,2014-10-28,2025-04-10,Not Captured by Options,Not Hispanic,10.449315068493153,10,Children,115
+Masculine,2008-09-17,2025-04-09,Not Captured by Options,Not Hispanic,16.56084287746089,16,Adolescents,116
+Feminine,2010-10-07,2025-04-12,Not Captured by Options,Not Hispanic,14.512328767123288,14,Adolescents,117
+Feminine,2006-10-28,2025-04-09,Asian,Not Hispanic,18.446575342465753,18,Adults,118
+Masculine,2006-05-05,2025-04-14,Not Reported,Not Hispanic,18.942465753424656,18,Adults,119
+Masculine,2007-10-25,2025-04-13,White,Not Hispanic,17.465753424657535,17,Adolescents,120
+Feminine,2009-09-16,2025-04-10,White,Not Hispanic,15.564383561643837,15,Adolescents,121
+Feminine,2009-04-29,2025-04-19,Asian,Not Hispanic,15.972602739726028,15,Adolescents,122
+Feminine,2009-10-02,2025-04-25,White,Not Hispanic,15.561643835616438,15,Adolescents,123
+Feminine,2010-09-27,2025-04-22,Mixed Race,Not Hispanic,14.567123287671231,14,Adolescents,124
+Feminine,2010-05-08,2025-04-12,Not Captured by Options,Not Hispanic,14.92876712328767,14,Adolescents,125
+Feminine,2014-09-20,2025-04-22,Mixed Race,Not Hispanic,10.586301369863014,10,Children,126
+Masculine,2007-01-22,2025-04-20,White,Not Reported,18.24109589041096,18,Adults,127
+Masculine,2005-10-16,2025-04-16,Asian,Not Hispanic,19.4986301369863,19,Adults,128
+Feminine,2006-05-12,2025-04-20,Asian,Not Hispanic,18.93972602739726,18,Adults,129
+Feminine,2006-06-02,2025-04-16,Asian,Not Hispanic,18.87123287671233,18,Adults,130
+Feminine,2005-09-24,2025-04-21,White,Not Hispanic,19.572602739726022,19,Adults,131
+Feminine,2005-09-09,2025-04-15,White,Not Hispanic,19.5972602739726,19,Adults,132
+Feminine,2006-02-13,2025-04-21,White,Not Hispanic,19.183561643835617,19,Adults,133
+Feminine,2007-02-23,2025-04-15,Asian,Not Hispanic,18.13972602739726,18,Adults,134
+Feminine,2010-09-02,2025-04-18,White,Not Hispanic,14.624657534246577,14,Adolescents,135
+Feminine,2006-06-27,2025-04-19,Asian,Not Hispanic,18.81095890410959,18,Adults,136
+Feminine,2005-07-31,2025-04-24,White,Hispanic,19.731506849315068,19,Adults,137
+Masculine,2006-07-03,2025-04-18,Asian,Not Hispanic,18.791780821917808,18,Adults,138
+Masculine,2008-06-21,2025-04-25,Asian,Not Hispanic,16.845115652369188,16,Adolescents,139
+Masculine,2010-02-02,2025-04-25,White,Not Hispanic,15.224657534246576,15,Adolescents,140
+Feminine,2009-09-20,2025-04-22,White,Not Hispanic,15.586301369863014,15,Adolescents,141
+Feminine,2010-08-09,2025-04-22,White,Not Hispanic,14.7013698630137,14,Adolescents,142
+Feminine,2015-01-28,2025-04-28,White,Not Hispanic,10.246575342465754,10,Children,143
+Masculine,2011-08-31,2025-05-01,White,Not Hispanic,13.665753424657536,13,Adolescents,144
+Masculine,2011-06-30,2025-04-26,White,Not Hispanic,13.821917808219178,13,Adolescents,145
+Feminine,2014-11-03,2025-04-25,White,Not Hispanic,10.473972602739726,10,Children,146
+Feminine,2014-01-14,2025-04-29,White,Not Hispanic,11.287671232876711,11,Children,147
+Masculine,2004-08-26,2025-04-28,Asian,Not Hispanic,20.67300696159892,20,Adults,148
+Masculine,2005-11-06,2025-05-01,Not Reported,Hispanic,19.48219178082192,19,Adults,149
+Masculine,2006-12-14,2025-04-30,White,Hispanic,18.375342465753423,18,Adults,150
+Masculine,2005-11-14,2025-04-25,Asian,Not Hispanic,19.443835616438356,19,Adults,151
+Feminine,2012-08-14,2025-04-27,Mixed Race,Not Hispanic,12.703054120817429,12,Children,152
+Masculine,2005-08-03,2025-05-02,Asian,Not Hispanic,19.745205479452057,19,Adults,153
+Masculine,2005-05-18,2025-04-29,White,Not Hispanic,19.947945205479453,19,Adults,154
+Masculine,2006-03-02,2025-05-01,Black or African American,Not Hispanic,19.16438356164383,19,Adults,155
+Masculine,2004-07-23,2025-05-30,White,Not Hispanic,20.85357436933902,20,Adults,156
+Masculine,2007-11-14,2025-05-20,Asian,Not Reported,17.512328767123286,17,Adolescents,157
+Masculine,2008-03-18,2025-06-01,White,Not Hispanic,17.205479452054796,17,Adolescents,158
+Feminine,2013-02-17,2025-06-05,White,Not Hispanic,12.295890410958904,12,Children,159
+Feminine,2013-02-12,2025-05-24,White,Not Hispanic,12.276712328767124,12,Children,160
+Masculine,2008-03-18,2025-05-31,White,Not Hispanic,17.202739726027396,17,Adolescents,161

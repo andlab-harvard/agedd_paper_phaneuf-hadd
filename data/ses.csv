@@ -1,0 +1,162 @@
+FamilyIncome,ParentEducation,FamilyIncomeSimp,ParentEducationSimp,MacArthur1,MacArthur2,StudyID
+"$25,000 through $49,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",25k-50k,Postgrad.,5,7,9
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,7,24
+"$100,000 through $199,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",100k-200k,Bach.,7,7,56
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,7,64
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,8,66
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,9,8,68
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,6,9,74
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,9,82
+"$50,000 through $74,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",50k-75k,Bach.,5,6,89
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,7,6,111
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,8,7,119
+"$75,000 through $99,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",75k-100k,Bach.,7,9,125
+"$200,000 or more","Professional school degree (e.g., MD, DDS, DVM, JD)",>200k,Postgrad.,7,4,129
+"$200,000 or more","Professional school degree (e.g., MD, DDS, DVM, JD)",>200k,Postgrad.,8,7,130
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,8,7,140
+Unknown,"Master's degree (e.g., MA, MS, MEng, MEd, MBA)",Unknown,Postgrad.,7,9,141
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,10,10,143
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,9,9,146
+"$75,000 through $99,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",75k-100k,Bach.,6,6,155
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,9,6,1
+"$50,000 through $74,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",50k-75k,Postgrad.,5,8,3
+Unknown,"Doctoral degree (e.g., PhD, EdD)",Unknown,Postgrad.,7,8,5
+"$100,000 through $199,999","Professional school degree (e.g., MD, DDS, DVM, JD)",100k-200k,Postgrad.,8,7,22
+"$100,000 through $199,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",100k-200k,Bach.,5,8,33
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,6,8,37
+"Less than $25,000","Professional school degree (e.g., MD, DDS, DVM, JD)",<25k,Postgrad.,6,7,43
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,6,51
+Unknown,"Bachelor's degree (e.g., BA, AB, BS, BBA)",Unknown,Bach.,3,4,58
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,8,6,67
+"$200,000 or more","Professional school degree (e.g., MD, DDS, DVM, JD)",>200k,Postgrad.,7,7,69
+"$200,000 or more","Professional school degree (e.g., MD, DDS, DVM, JD)",>200k,Postgrad.,7,8,77
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,6,8,83
+Unknown,"Doctoral degree (e.g., PhD, EdD)",Unknown,Postgrad.,7,9,86
+"$50,000 through $74,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",50k-75k,Bach.,5,7,95
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,8,8,96
+"$75,000 through $99,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",75k-100k,Bach.,7,9,103
+"$75,000 through $99,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",75k-100k,Bach.,5,9,116
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,6,9,121
+"$50,000 through $74,999","Some college, no degree",50k-75k,Some Coll.,5,5,131
+"$25,000 through $49,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",25k-50k,Bach.,6,8,117
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,5,6,2
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,7,6,6
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,7,8,10
+"$25,000 through $49,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",25k-50k,Bach.,4,6,19
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,7,26
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,6,6,45
+"$100,000 through $199,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",100k-200k,Bach.,6,6,48
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,8,7,50
+"$25,000 through $49,999","Associate degree: occupational, technical, or vocational program",25k-50k,Some Coll.,7,4,57
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,9,73
+"$200,000 or more","Professional school degree (e.g., MD, DDS, DVM, JD)",>200k,Postgrad.,8,7,78
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,6,7,90
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,7,9,91
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,7,97
+"$200,000 or more","Professional school degree (e.g., MD, DDS, DVM, JD)",>200k,Postgrad.,5,8,104
+"$75,000 through $99,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",75k-100k,Bach.,7,9,112
+Unknown,"Professional school degree (e.g., MD, DDS, DVM, JD)",Unknown,Postgrad.,8,7,132
+"$100,000 through $199,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",100k-200k,Bach.,7,10,133
+"Less than $25,000","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",<25k,Postgrad.,4,5,4
+"$25,000 through $49,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",25k-50k,Postgrad.,5,4,8
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,8,9,18
+Unknown,"Bachelor's degree (e.g., BA, AB, BS, BBA)",Unknown,Bach.,10,4,21
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,7,8,34
+Unknown,High school graduate,Unknown,High Sch.,4,8,36
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,7,7,38
+"$100,000 through $199,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",100k-200k,Bach.,6,9,42
+"$50,000 through $74,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",50k-75k,Postgrad.,5,7,46
+"Less than $25,000","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",<25k,Postgrad.,7,8,55
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,7,62
+"$200,000 or more","Bachelor's degree (e.g., BA, AB, BS, BBA)",>200k,Bach.,8,6,75
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,8,79
+"$25,000 through $49,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",25k-50k,Postgrad.,6,6,87
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,6,9,105
+"$200,000 or more","Bachelor's degree (e.g., BA, AB, BS, BBA)",>200k,Bach.,6,9,120
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,7,122
+"$75,000 through $99,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",75k-100k,Bach.,6,4,134
+Unknown,"Doctoral degree (e.g., PhD, EdD)",Unknown,Postgrad.,6,9,126
+"$100,000 through $199,999",Associate degree: academic program,100k-200k,Some Coll.,5,4,14
+"$75,000 through $99,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",75k-100k,Postgrad.,6,4,20
+"$100,000 through $199,999","Associate degree: occupational, technical, or vocational program",100k-200k,Some Coll.,9,9,27
+Unknown,Unknown,Unknown,Unknown,5,6,28
+"$25,000 through $49,999",Associate degree: academic program,25k-50k,Some Coll.,3,7,35
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,7,6,47
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,9,7,70
+"$200,000 or more","Bachelor's degree (e.g., BA, AB, BS, BBA)",>200k,Bach.,6,4,85
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,5,7,101
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,NA,8,102
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,9,109
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,3,113
+"$50,000 through $74,999","Doctoral degree (e.g., PhD, EdD)",50k-75k,Postgrad.,6,8,118
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,8,135
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,7,6,137
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,6,142
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,5,5,148
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,7,153
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,9,157
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,8,8,158
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,5,159
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,5,9,107
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,8,161
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,8,5,12
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,4,3,15
+"$100,000 through $199,999",Associate degree: academic program,100k-200k,Some Coll.,7,6,17
+"Less than $25,000",High school graduate,<25k,High Sch.,4,6,30
+Unknown,"Master's degree (e.g., MA, MS, MEng, MEd, MBA)",Unknown,Postgrad.,6,5,39
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,6,7,53
+"$100,000 through $199,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",100k-200k,Bach.,7,8,54
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,8,71
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,5,5,80
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,7,10,84
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,6,8,92
+Unknown,"Master's degree (e.g., MA, MS, MEng, MEd, MBA)",Unknown,Postgrad.,7,7,93
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,6,9,94
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,6,8,98
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,6,7,99
+Unknown,"Doctoral degree (e.g., PhD, EdD)",Unknown,Postgrad.,6,8,100
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,5,3,106
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,8,8,110
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,5,8,127
+"$50,000 through $74,999","Associate degree: occupational, technical, or vocational program",50k-75k,Some Coll.,5,4,128
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,7,11
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,8,23
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,7,31
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,9,41
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,7,9,44
+"Less than $25,000",High school graduate,<25k,High Sch.,2,5,52
+"Less than $25,000","Bachelor's degree (e.g., BA, AB, BS, BBA)",<25k,Bach.,4,7,59
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,NA,8,61
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,6,3,65
+"$75,000 through $99,999","Associate degree: occupational, technical, or vocational program",75k-100k,Some Coll.,4,4,72
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,7,88
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,8,7,108
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,9,8,123
+"$200,000 or more","Bachelor's degree (e.g., BA, AB, BS, BBA)",>200k,Bach.,9,9,144
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,7,7,145
+"$25,000 through $49,999",High school graduate,25k-50k,High Sch.,3,2,149
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,5,4,150
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,6,3,154
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,5,5,160
+"Less than $25,000",High school graduate,<25k,High Sch.,6,8,7
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,7,13
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,1,7,16
+"$200,000 or more","Bachelor's degree (e.g., BA, AB, BS, BBA)",>200k,Bach.,6,5,25
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,9,29
+"$50,000 through $74,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",50k-75k,Postgrad.,5,8,32
+"$50,000 through $74,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",50k-75k,Bach.,5,7,40
+"$200,000 or more","Associate degree: occupational, technical, or vocational program",>200k,Some Coll.,8,9,49
+"$200,000 or more","Doctoral degree (e.g., PhD, EdD)",>200k,Postgrad.,7,8,60
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,8,9,63
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,5,6,152
+"$100,000 through $199,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",100k-200k,Postgrad.,10,10,76
+"$75,000 through $99,999","Doctoral degree (e.g., PhD, EdD)",75k-100k,Postgrad.,6,10,81
+"$100,000 through $199,999","Doctoral degree (e.g., PhD, EdD)",100k-200k,Postgrad.,7,9,114
+"$25,000 through $49,999","Bachelor's degree (e.g., BA, AB, BS, BBA)",25k-50k,Bach.,5,8,115
+Unknown,"Doctoral degree (e.g., PhD, EdD)",Unknown,Postgrad.,7,8,124
+Unknown,"Master's degree (e.g., MA, MS, MEng, MEd, MBA)",Unknown,Postgrad.,8,6,136
+"$75,000 through $99,999","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",75k-100k,Postgrad.,8,7,138
+Unknown,Unknown,Unknown,Unknown,7,8,139
+"$100,000 through $199,999","Associate degree: occupational, technical, or vocational program",100k-200k,Some Coll.,6,8,147
+"$25,000 through $49,999","Doctoral degree (e.g., PhD, EdD)",25k-50k,Postgrad.,5,7,151
+"$200,000 or more","Master's degree (e.g., MA, MS, MEng, MEd, MBA)",>200k,Postgrad.,7,6,156

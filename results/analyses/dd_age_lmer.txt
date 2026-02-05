@@ -1,0 +1,9 @@
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: AUC
+                     Chisq Df Pr(>Chisq)    
+ExactAge           28.3088  1  1.034e-07 ***
+Magnitude          47.7176  1  4.922e-12 ***
+ExactAge:Magnitude  6.7535  1   0.009356 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

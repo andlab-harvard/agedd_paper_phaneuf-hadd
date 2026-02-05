@@ -1,0 +1,67 @@
+
+  Bayesian network parameters
+
+  Parameters of node Age (Yrs) (Gaussian distribution)
+
+Conditional density: Age (Yrs)
+Coefficients:
+(Intercept)  
+   15.68924  
+Standard deviation of the residuals: 3.07526 
+
+  Parameters of node $20 AUC (Gaussian distribution)
+
+Conditional density: $20 AUC | Age (Yrs) + FOS + Time
+Coefficients:
+ (Intercept)     Age (Yrs)           FOS          Time  
+ 0.043795303   0.026988692   0.007669033  -0.002815434  
+Standard deviation of the residuals: 0.2679587 
+
+  Parameters of node $200 AUC (Gaussian distribution)
+
+Conditional density: $200 AUC | Age (Yrs) + N-Back + Time
+Coefficients:
+ (Intercept)     Age (Yrs)        N-Back          Time  
+ 0.089092619   0.050644857  -0.038321127  -0.002645657  
+Standard deviation of the residuals: 0.2655324 
+
+  Parameters of node Stroop (Gaussian distribution)
+
+Conditional density: Stroop | Age (Yrs)
+Coefficients:
+ (Intercept)     Age (Yrs)  
+-0.162360803   0.007564019  
+Standard deviation of the residuals: 0.091826 
+
+  Parameters of node FOS (Gaussian distribution)
+
+Conditional density: FOS | Age (Yrs)
+Coefficients:
+(Intercept)    Age (Yrs)  
+ 36.6440458    0.4831164  
+Standard deviation of the residuals: 6.355541 
+
+  Parameters of node N-Back (Gaussian distribution)
+
+Conditional density: N-Back | Age (Yrs)
+Coefficients:
+(Intercept)    Age (Yrs)  
+  -3.632184     0.232398  
+Standard deviation of the residuals: 1.482851 
+
+  Parameters of node BAS (Gaussian distribution)
+
+Conditional density: BAS | Age (Yrs)
+Coefficients:
+(Intercept)    Age (Yrs)  
+ 32.9685974    0.2926109  
+Standard deviation of the residuals: 5.371492 
+
+  Parameters of node Time (Gaussian distribution)
+
+Conditional density: Time | Age (Yrs)
+Coefficients:
+(Intercept)    Age (Yrs)  
+  97.215325    -1.335284  
+Standard deviation of the residuals: 22.47702 
+

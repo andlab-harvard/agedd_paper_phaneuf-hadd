@@ -1,0 +1,955 @@
+Length,Report,StudyID
+tomorrow,2,9
+1 week,5,9
+1 month,11,9
+3 months,31,9
+6 months,36,9
+1 year,55,9
+tomorrow,1,24
+1 week,5,24
+1 month,13,24
+3 months,19,24
+6 months,29,24
+1 year,39,24
+tomorrow,1,56
+1 week,60,56
+1 month,78,56
+3 months,69,56
+6 months,100,56
+1 year,100,56
+tomorrow,1,64
+1 week,1,64
+1 month,9,64
+3 months,26,64
+6 months,53,64
+1 year,100,64
+tomorrow,2,66
+1 week,4,66
+1 month,20,66
+3 months,36,66
+6 months,53,66
+1 year,80,66
+tomorrow,2,68
+1 week,4,68
+1 month,11,68
+3 months,34,68
+6 months,66,68
+1 year,100,68
+tomorrow,4,74
+1 week,8,74
+1 month,16,74
+3 months,31,74
+6 months,58,74
+1 year,77,74
+tomorrow,3,82
+1 week,11,82
+1 month,15,82
+3 months,24,82
+6 months,34,82
+1 year,65,82
+tomorrow,8,89
+1 week,21,89
+1 month,42,89
+3 months,67,89
+6 months,83,89
+1 year,100,89
+tomorrow,1,111
+1 week,14,111
+1 month,30,111
+3 months,40,111
+6 months,58,111
+1 year,100,111
+tomorrow,1,119
+1 week,2,119
+1 month,8,119
+3 months,24,119
+6 months,47,119
+1 year,100,119
+tomorrow,4,125
+1 week,23,125
+1 month,12,125
+3 months,35,125
+6 months,49,125
+1 year,100,125
+tomorrow,1,129
+1 week,3,129
+1 month,8,129
+3 months,21,129
+6 months,49,129
+1 year,100,129
+tomorrow,1,130
+1 week,7,130
+1 month,20,130
+3 months,33,130
+6 months,56,130
+1 year,88,130
+tomorrow,2,140
+1 week,18,140
+1 month,29,140
+3 months,53,140
+6 months,77,140
+1 year,95,140
+tomorrow,1,141
+1 week,1,141
+1 month,4,141
+3 months,16,141
+6 months,27,141
+1 year,55,141
+tomorrow,12,143
+1 week,34,143
+1 month,69,143
+3 months,85,143
+6 months,92,143
+1 year,97,143
+tomorrow,8,146
+1 week,10,146
+1 month,21,146
+3 months,42,146
+6 months,55,146
+1 year,79,146
+tomorrow,43,155
+1 week,57,155
+1 month,43,155
+3 months,44,155
+6 months,50,155
+1 year,55,155
+tomorrow,2,1
+1 week,15,1
+1 month,39,1
+3 months,53,1
+6 months,74,1
+1 year,97,1
+tomorrow,4,3
+1 week,39,3
+1 month,54,3
+3 months,82,3
+6 months,93,3
+1 year,100,3
+tomorrow,1,22
+1 week,8,22
+1 month,33,22
+3 months,56,22
+6 months,58,22
+1 year,66,22
+tomorrow,6,33
+1 week,11,33
+1 month,28,33
+3 months,58,33
+6 months,72,33
+1 year,93,33
+tomorrow,1,37
+1 week,2,37
+1 month,31,37
+3 months,33,37
+6 months,57,37
+1 year,91,37
+tomorrow,4,43
+1 week,9,43
+1 month,19,43
+3 months,43,43
+6 months,56,43
+1 year,79,43
+tomorrow,1,51
+1 week,7,51
+1 month,22,51
+3 months,56,51
+6 months,74,51
+1 year,100,51
+tomorrow,1,58
+1 week,5,58
+1 month,9,58
+3 months,11,58
+6 months,14,58
+1 year,19,58
+tomorrow,1,67
+1 week,6,67
+1 month,30,67
+3 months,34,67
+6 months,54,67
+1 year,100,67
+tomorrow,18,69
+1 week,32,69
+1 month,46,69
+3 months,68,69
+6 months,78,69
+1 year,100,69
+tomorrow,2,77
+1 week,5,77
+1 month,10,77
+3 months,18,77
+6 months,32,77
+1 year,55,77
+tomorrow,9,83
+1 week,28,83
+1 month,34,83
+3 months,48,83
+6 months,61,83
+1 year,73,83
+tomorrow,2,86
+1 week,9,86
+1 month,30,86
+3 months,54,86
+6 months,83,86
+1 year,95,86
+tomorrow,1,95
+1 week,5,95
+1 month,16,95
+3 months,24,95
+6 months,46,95
+1 year,90,95
+tomorrow,1,96
+1 week,1,96
+1 month,2,96
+3 months,3,96
+6 months,5,96
+1 year,6,96
+tomorrow,0,103
+1 week,0,103
+1 month,0,103
+3 months,100,103
+6 months,100,103
+1 year,100,103
+tomorrow,1,116
+1 week,4,116
+1 month,11,116
+3 months,26,116
+6 months,51,116
+1 year,100,116
+tomorrow,2,121
+1 week,6,121
+1 month,13,121
+3 months,27,121
+6 months,65,121
+1 year,99,121
+tomorrow,1,131
+1 week,5,131
+1 month,15,131
+3 months,15,131
+6 months,33,131
+1 year,62,131
+tomorrow,2,117
+1 week,4,117
+1 month,9,117
+3 months,31,117
+6 months,40,117
+1 year,77,117
+tomorrow,1,2
+1 week,2,2
+1 month,7,2
+3 months,14,2
+6 months,27,2
+1 year,46,2
+tomorrow,3,6
+1 week,8,6
+1 month,21,6
+3 months,37,6
+6 months,60,6
+1 year,87,6
+tomorrow,1,10
+1 week,7,10
+1 month,34,10
+3 months,71,10
+6 months,100,10
+1 year,100,10
+tomorrow,4,19
+1 week,8,19
+1 month,14,19
+3 months,31,19
+6 months,44,19
+1 year,78,19
+tomorrow,1,26
+1 week,3,26
+1 month,4,26
+3 months,7,26
+6 months,11,26
+1 year,32,26
+tomorrow,1,45
+1 week,1,45
+1 month,3,45
+3 months,5,45
+6 months,6,45
+1 year,13,45
+tomorrow,1,48
+1 week,26,48
+1 month,41,48
+3 months,48,48
+6 months,66,48
+1 year,100,48
+tomorrow,2,50
+1 week,9,50
+1 month,19,50
+3 months,35,50
+6 months,58,50
+1 year,81,50
+tomorrow,1,57
+1 week,10,57
+1 month,28,57
+3 months,23,57
+6 months,47,57
+1 year,81,57
+tomorrow,5,73
+1 week,27,73
+1 month,42,73
+3 months,62,73
+6 months,88,73
+1 year,100,73
+tomorrow,2,78
+1 week,7,78
+1 month,12,78
+3 months,21,78
+6 months,40,78
+1 year,75,78
+tomorrow,4,90
+1 week,13,90
+1 month,17,90
+3 months,23,90
+6 months,34,90
+1 year,71,90
+tomorrow,2,91
+1 week,7,91
+1 month,15,91
+3 months,29,91
+6 months,50,91
+1 year,100,91
+tomorrow,1,97
+1 week,2,97
+1 month,8,97
+3 months,37,97
+6 months,68,97
+1 year,100,97
+tomorrow,1,104
+1 week,1,104
+1 month,20,104
+3 months,38,104
+6 months,78,104
+1 year,93,104
+tomorrow,1,112
+1 week,6,112
+1 month,5,112
+3 months,23,112
+6 months,51,112
+1 year,100,112
+tomorrow,1,132
+1 week,2,132
+1 month,5,132
+3 months,16,132
+6 months,32,132
+1 year,57,132
+tomorrow,1,133
+1 week,2,133
+1 month,9,133
+3 months,19,133
+6 months,47,133
+1 year,100,133
+tomorrow,3,4
+1 week,39,4
+1 month,82,4
+3 months,35,4
+6 months,96,4
+1 year,100,4
+tomorrow,2,8
+1 week,15,8
+1 month,23,8
+3 months,44,8
+6 months,68,8
+1 year,100,8
+tomorrow,2,18
+1 week,7,18
+1 month,13,18
+3 months,32,18
+6 months,53,18
+1 year,99,18
+tomorrow,0,21
+1 week,7,21
+1 month,13,21
+3 months,25,21
+6 months,32,21
+1 year,40,21
+tomorrow,3,34
+1 week,28,34
+1 month,36,34
+3 months,43,34
+6 months,67,34
+1 year,100,34
+tomorrow,22,36
+1 week,50,36
+1 month,82,36
+3 months,95,36
+6 months,100,36
+1 year,100,36
+tomorrow,9,38
+1 week,30,38
+1 month,34,38
+3 months,48,38
+6 months,71,38
+1 year,88,38
+tomorrow,3,42
+1 week,13,42
+1 month,22,42
+3 months,40,42
+6 months,58,42
+1 year,84,42
+tomorrow,1,46
+1 week,3,46
+1 month,5,46
+3 months,13,46
+6 months,33,46
+1 year,63,46
+tomorrow,1,55
+1 week,7,55
+1 month,10,55
+3 months,25,55
+6 months,55,55
+1 year,95,55
+tomorrow,1,62
+1 week,2,62
+1 month,6,62
+3 months,18,62
+6 months,43,62
+1 year,60,62
+tomorrow,6,75
+1 week,16,75
+1 month,35,75
+3 months,53,75
+6 months,83,75
+1 year,95,75
+tomorrow,2,79
+1 week,8,79
+1 month,30,79
+3 months,47,79
+6 months,64,79
+1 year,91,79
+tomorrow,2,87
+1 week,5,87
+1 month,5,87
+3 months,23,87
+6 months,55,87
+1 year,94,87
+tomorrow,1,105
+1 week,7,105
+1 month,8,105
+3 months,20,105
+6 months,40,105
+1 year,78,105
+tomorrow,2,120
+1 week,6,120
+1 month,14,120
+3 months,29,120
+6 months,50,120
+1 year,75,120
+tomorrow,1,122
+1 week,21,122
+1 month,47,122
+3 months,72,122
+6 months,90,122
+1 year,100,122
+tomorrow,1,134
+1 week,5,134
+1 month,12,134
+3 months,26,134
+6 months,45,134
+1 year,75,134
+tomorrow,2,126
+1 week,13,126
+1 month,20,126
+3 months,35,126
+6 months,54,126
+1 year,77,126
+tomorrow,2,14
+1 week,6,14
+1 month,14,14
+3 months,25,14
+6 months,36,14
+1 year,62,14
+tomorrow,20,20
+1 week,30,20
+1 month,41,20
+3 months,54,20
+6 months,79,20
+1 year,100,20
+tomorrow,7,27
+1 week,23,27
+1 month,25,27
+3 months,30,27
+6 months,43,27
+1 year,69,27
+tomorrow,7,28
+1 week,42,28
+1 month,69,28
+3 months,73,28
+6 months,100,28
+1 year,100,28
+tomorrow,1,35
+1 week,2,35
+1 month,8,35
+3 months,14,35
+6 months,29,35
+1 year,65,35
+tomorrow,2,47
+1 week,8,47
+1 month,32,47
+3 months,58,47
+6 months,82,47
+1 year,100,47
+tomorrow,2,70
+1 week,6,70
+1 month,14,70
+3 months,39,70
+6 months,58,70
+1 year,100,70
+tomorrow,1,85
+1 week,5,85
+1 month,12,85
+3 months,7,85
+6 months,19,85
+1 year,41,85
+tomorrow,1,101
+1 week,5,101
+1 month,14,101
+3 months,25,101
+6 months,46,101
+1 year,84,101
+tomorrow,1,102
+1 week,19,102
+1 month,37,102
+3 months,62,102
+6 months,99,102
+1 year,100,102
+tomorrow,4,109
+1 week,13,109
+1 month,34,109
+3 months,44,109
+6 months,57,109
+1 year,100,109
+tomorrow,1,113
+1 week,4,113
+1 month,9,113
+3 months,25,113
+6 months,50,113
+1 year,100,113
+tomorrow,1,118
+1 week,10,118
+1 month,33,118
+3 months,46,118
+6 months,64,118
+1 year,89,118
+tomorrow,1,135
+1 week,3,135
+1 month,8,135
+3 months,23,135
+6 months,33,135
+1 year,76,135
+tomorrow,1,137
+1 week,5,137
+1 month,23,137
+3 months,37,137
+6 months,52,137
+1 year,100,137
+tomorrow,2,142
+1 week,10,142
+1 month,28,142
+3 months,43,142
+6 months,61,142
+1 year,81,142
+tomorrow,11,148
+1 week,14,148
+1 month,29,148
+3 months,36,148
+6 months,55,148
+1 year,79,148
+tomorrow,2,153
+1 week,4,153
+1 month,10,153
+3 months,31,153
+6 months,72,153
+1 year,91,153
+tomorrow,2,157
+1 week,4,157
+1 month,9,157
+3 months,21,157
+6 months,36,157
+1 year,60,157
+tomorrow,1,158
+1 week,3,158
+1 month,10,158
+3 months,27,158
+6 months,44,158
+1 year,66,158
+tomorrow,1,159
+1 week,3,159
+1 month,3,159
+3 months,9,159
+6 months,18,159
+1 year,28,159
+tomorrow,1,107
+1 week,8,107
+1 month,18,107
+3 months,39,107
+6 months,72,107
+1 year,100,107
+tomorrow,6,161
+1 week,20,161
+1 month,16,161
+3 months,38,161
+6 months,45,161
+1 year,83,161
+tomorrow,9,12
+1 week,20,12
+1 month,27,12
+3 months,37,12
+6 months,49,12
+1 year,79,12
+tomorrow,2,15
+1 week,20,15
+1 month,33,15
+3 months,57,15
+6 months,81,15
+1 year,100,15
+tomorrow,1,17
+1 week,11,17
+1 month,26,17
+3 months,55,17
+6 months,88,17
+1 year,100,17
+tomorrow,3,30
+1 week,9,30
+1 month,32,30
+3 months,50,30
+6 months,70,30
+1 year,90,30
+tomorrow,1,39
+1 week,5,39
+1 month,15,39
+3 months,34,39
+6 months,51,39
+1 year,85,39
+tomorrow,2,53
+1 week,4,53
+1 month,10,53
+3 months,25,53
+6 months,42,53
+1 year,63,53
+tomorrow,7,54
+1 week,17,54
+1 month,31,54
+3 months,45,54
+6 months,51,54
+1 year,98,54
+tomorrow,2,71
+1 week,6,71
+1 month,8,71
+3 months,13,71
+6 months,28,71
+1 year,41,71
+tomorrow,25,80
+1 week,28,80
+1 month,34,80
+3 months,37,80
+6 months,40,80
+1 year,48,80
+tomorrow,29,84
+1 week,40,84
+1 month,48,84
+3 months,54,84
+6 months,60,84
+1 year,76,84
+tomorrow,1,92
+1 week,5,92
+1 month,8,92
+3 months,23,92
+6 months,50,92
+1 year,100,92
+tomorrow,0,93
+1 week,5,93
+1 month,18,93
+3 months,44,93
+6 months,53,93
+1 year,99,93
+tomorrow,2,94
+1 week,4,94
+1 month,8,94
+3 months,20,94
+6 months,42,94
+1 year,81,94
+tomorrow,4,98
+1 week,7,98
+1 month,15,98
+3 months,22,98
+6 months,41,98
+1 year,91,98
+tomorrow,39,99
+1 week,48,99
+1 month,49,99
+3 months,75,99
+6 months,67,99
+1 year,100,99
+tomorrow,5,100
+1 week,19,100
+1 month,35,100
+3 months,40,100
+6 months,47,100
+1 year,90,100
+tomorrow,3,106
+1 week,8,106
+1 month,19,106
+3 months,36,106
+6 months,71,106
+1 year,100,106
+tomorrow,5,110
+1 week,8,110
+1 month,12,110
+3 months,22,110
+6 months,36,110
+1 year,63,110
+tomorrow,1,127
+1 week,3,127
+1 month,11,127
+3 months,20,127
+6 months,34,127
+1 year,73,127
+tomorrow,3,128
+1 week,10,128
+1 month,13,128
+3 months,16,128
+6 months,17,128
+1 year,24,128
+tomorrow,2,11
+1 week,6,11
+1 month,12,11
+3 months,26,11
+6 months,53,11
+1 year,100,11
+tomorrow,4,23
+1 week,9,23
+1 month,21,23
+3 months,46,23
+6 months,52,23
+1 year,60,23
+tomorrow,1,31
+1 week,2,31
+1 month,7,31
+3 months,17,31
+6 months,39,31
+1 year,74,31
+tomorrow,1,41
+1 week,2,41
+1 month,8,41
+3 months,21,41
+6 months,50,41
+1 year,100,41
+tomorrow,6,44
+1 week,20,44
+1 month,29,44
+3 months,56,44
+6 months,76,44
+1 year,88,44
+tomorrow,3,52
+1 week,11,52
+1 month,19,52
+3 months,29,52
+6 months,49,52
+1 year,79,52
+tomorrow,2,59
+1 week,25,59
+1 month,40,59
+3 months,54,59
+6 months,75,59
+1 year,90,59
+tomorrow,1,61
+1 week,4,61
+1 month,15,61
+3 months,31,61
+6 months,66,61
+1 year,100,61
+tomorrow,10,65
+1 week,23,65
+1 month,33,65
+3 months,49,65
+6 months,82,65
+1 year,100,65
+tomorrow,3,72
+1 week,16,72
+1 month,15,72
+3 months,28,72
+6 months,27,72
+1 year,56,72
+tomorrow,4,108
+1 week,38,108
+1 month,27,108
+3 months,55,108
+6 months,80,108
+1 year,100,108
+tomorrow,2,123
+1 week,9,123
+1 month,20,123
+3 months,31,123
+6 months,58,123
+1 year,79,123
+tomorrow,1,144
+1 week,4,144
+1 month,16,144
+3 months,16,144
+6 months,42,144
+1 year,75,144
+tomorrow,7,145
+1 week,21,145
+1 month,45,145
+3 months,65,145
+6 months,79,145
+1 year,100,145
+tomorrow,1,149
+1 week,2,149
+1 month,3,149
+3 months,7,149
+6 months,14,149
+1 year,25,149
+tomorrow,1,150
+1 week,8,150
+1 month,17,150
+3 months,35,150
+6 months,50,150
+1 year,79,150
+tomorrow,1,154
+1 week,9,154
+1 month,11,154
+3 months,19,154
+6 months,34,154
+1 year,49,154
+tomorrow,3,160
+1 week,19,160
+1 month,11,160
+3 months,30,160
+6 months,79,160
+1 year,100,160
+tomorrow,1,7
+1 week,14,7
+1 month,16,7
+3 months,30,7
+6 months,41,7
+1 year,94,7
+tomorrow,0,13
+1 week,10,13
+1 month,22,13
+3 months,30,13
+6 months,57,13
+1 year,77,13
+tomorrow,11,16
+1 week,32,16
+1 month,42,16
+3 months,53,16
+6 months,60,16
+1 year,84,16
+tomorrow,7,25
+1 week,17,25
+1 month,33,25
+3 months,39,25
+6 months,79,25
+1 year,99,25
+tomorrow,1,29
+1 week,9,29
+1 month,43,29
+3 months,57,29
+6 months,83,29
+1 year,95,29
+tomorrow,1,32
+1 week,1,32
+1 month,4,32
+3 months,14,32
+6 months,23,32
+1 year,45,32
+tomorrow,3,40
+1 week,7,40
+1 month,23,40
+3 months,38,40
+6 months,46,40
+1 year,66,40
+tomorrow,1,49
+1 week,1,49
+1 month,6,49
+3 months,12,49
+6 months,21,49
+1 year,55,49
+tomorrow,1,60
+1 week,1,60
+1 month,5,60
+3 months,19,60
+6 months,39,60
+1 year,74,60
+tomorrow,9,63
+1 week,21,63
+1 month,38,63
+3 months,72,63
+6 months,91,63
+1 year,100,63
+tomorrow,2,152
+1 week,20,152
+1 month,31,152
+3 months,57,152
+6 months,76,152
+1 year,100,152
+tomorrow,7,76
+1 week,11,76
+1 month,37,76
+3 months,62,76
+6 months,88,76
+1 year,100,76
+tomorrow,1,81
+1 week,3,81
+1 month,11,81
+3 months,32,81
+6 months,53,81
+1 year,100,81
+tomorrow,2,114
+1 week,12,114
+1 month,22,114
+3 months,40,114
+6 months,78,114
+1 year,94,114
+tomorrow,2,115
+1 week,5,115
+1 month,13,115
+3 months,26,115
+6 months,48,115
+1 year,96,115
+tomorrow,1,124
+1 week,2,124
+1 month,6,124
+3 months,14,124
+6 months,23,124
+1 year,33,124
+tomorrow,2,136
+1 week,10,136
+1 month,30,136
+3 months,43,136
+6 months,54,136
+1 year,84,136
+tomorrow,2,138
+1 week,5,138
+1 month,9,138
+3 months,20,138
+6 months,39,138
+1 year,61,138
+tomorrow,4,139
+1 week,17,139
+1 month,100,139
+3 months,84,139
+6 months,99,139
+1 year,99,139
+tomorrow,2,147
+1 week,16,147
+1 month,25,147
+3 months,35,147
+6 months,49,147
+1 year,100,147
+tomorrow,2,151
+1 week,23,151
+1 month,38,151
+3 months,46,151
+6 months,58,151
+1 year,76,151
+tomorrow,1,156
+1 week,4,156
+1 month,11,156
+3 months,15,156
+6 months,18,156
+1 year,22,156

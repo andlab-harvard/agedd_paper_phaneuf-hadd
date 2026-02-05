@@ -1,0 +1,40 @@
+CATEGORICAL INCOME
+
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: AUC
+                     Chisq Df Pr(>Chisq)    
+ExactAge           24.9747  1  5.809e-07 ***
+Magnitude          47.7176  1  4.922e-12 ***
+FamilyIncomeSimp    4.0639  6   0.668031    
+ExactAge:Magnitude  6.7535  1   0.009356 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+CATEGORICAL EDUCATION
+
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: AUC
+                      Chisq Df Pr(>Chisq)    
+ExactAge            28.5647  1  9.062e-08 ***
+Magnitude           47.7176  1  4.922e-12 ***
+ParentEducationSimp  1.9948  4   0.736709    
+ExactAge:Magnitude   6.7535  1   0.009356 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+MACARTHUR AVERAGE
+
+Analysis of Deviance Table (Type II Wald chisquare tests)
+
+Response: AUC
+                     Chisq Df Pr(>Chisq)    
+ExactAge           24.9398  1  5.915e-07 ***
+Magnitude          54.1417  1  1.865e-13 ***
+MacArthurAvg        0.0631  1    0.80169    
+ExactAge:Magnitude  5.2464  1    0.02199 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
