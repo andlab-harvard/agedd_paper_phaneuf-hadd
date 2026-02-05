@@ -126,7 +126,7 @@ ggplot(data = dd_auc_long, aes(x = ExactAge, y = AUC, fill = Magnitude, color = 
   geom_hline(yintercept = c(.25, .5, .75), colour = 'grey90') +
   scale_y_continuous(breaks = seq(0, 1, by = .25)) +  
   geom_point(alpha = 1, size = 2.75) +
-  geom_smooth(method = "loess") +
+  geom_smooth(method = "loess", size = 1.5, alpha = .5) +
   labs(x = "Age (Years)", y = "Delay Discounting\n(AUC)") +
   agedd_theme
 ggsave(paste0(out_path, "dd_age_smth.png"), width = 7, height = 5)
